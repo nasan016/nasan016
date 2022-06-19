@@ -1,2 +1,2 @@
 # [nasan.dev 🖥️](https://nasan.dev/)
-# [nasan.me ❤️](https://nasan.me/)
+# [nasan.me 🙇](https://nasan.me/)
