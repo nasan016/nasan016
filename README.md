@@ -1,3 +1,6 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/83597466/178856866-16866bf2-acb5-42db-812e-de552681182a.gif"/>
-</p>
+<samp>
+  some underground songs:
+  <a href="https://www.youtube.com/watch?v=dJdqn5v4Dkw" target="_blank">ASAP</a>  -> New Jeans
+  <a href="https://www.youtube.com/watch?v=pSUydWEqKwE" target="_blank">Ditto</a> -> New Jeans
+  <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU" target="_blank">OMG</a>   -> New Jeans
+</samp>
