@@ -1,3 +1,3 @@
 <samp>
-who you calling a pinhead
+im looking for a job
 </samp>
